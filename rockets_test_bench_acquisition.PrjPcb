@@ -771,6 +771,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ARRPATGF
 
 [Document44]
+DocumentPath=TPS3847108DBVT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MEHSOUIF
+
+[Document45]
 DocumentPath=TB007-508-02BE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -787,7 +804,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document45]
+[Document46]
 DocumentPath=TB006-508-06BE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -804,7 +821,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPICKYJN
 
-[Document46]
+[Document47]
 DocumentPath=OKI-78SR-5_1.5-W36-C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,7 +838,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document47]
+[Document48]
 DocumentPath=TAJP106K010RNJ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -838,7 +855,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APNVMMPE
 
-[Document48]
+[Document49]
 DocumentPath=LMS8117ADT-3.3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -855,7 +872,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXGLTTOL
 
-[Document49]
+[Document50]
+DocumentPath=TPS3847108DBVT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OYLCZKQS
+
+[Document51]
 DocumentPath=Alim.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -871,6 +905,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEHFVJEO
+
+[Document52]
+DocumentPath=DMN5L06TK.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YRWJCAVH
+
+[Document53]
+DocumentPath=DMN5L06TK.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LAUZXFTQ
 
 [Configuration1]
 Name=Sources
