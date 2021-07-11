@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\rockets_test_bench_acquisition\PCB_rockets_test_bench_acquisition.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_1|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
