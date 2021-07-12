@@ -2,34 +2,21 @@
 FileName = PCB_rockets_test_bench_acquisition.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB_rockets_test_bench_acquisition.GBO
+Generating : Mechanical 4
+      File : PCB_rockets_test_bench_acquisition.GM4
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Mechanical 4
 
 
 Used DCodes :
-    D14
-    D17
     D19
+    D123
+    D124
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : PCB_rockets_test_bench_acquisition.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB_rockets_test_bench_acquisition.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : PCB_rockets_test_bench_acquisition.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -37,26 +24,29 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D23
-    D33
+    D19
     D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D118
-    D119
-    D120
-    D121
-    D122
+    D57
+    D62
+    D70
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
 *************************************************************
 
 *************************************************************
@@ -111,26 +101,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PCB_rockets_test_bench_acquisition.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 13
       File : PCB_rockets_test_bench_acquisition.GM13
 
@@ -142,45 +112,10 @@ Used DCodes :
     D14
     D16
     D18
-    D123
+    D124
     D125
     D126
     D127
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB_rockets_test_bench_acquisition.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D44
-    D57
-    D62
-    D70
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
 *************************************************************
 
 *************************************************************
@@ -210,60 +145,6 @@ Used DCodes :
     D109
     D110
     D111
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : PCB_rockets_test_bench_acquisition.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-    D19
-    D123
-    D124
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB_rockets_test_bench_acquisition.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Int1 (GND)
-      File : PCB_rockets_test_bench_acquisition.GP1
-
-    Adding Layer      : Int1 (GND)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
 *************************************************************
 
 *************************************************************
@@ -317,5 +198,124 @@ Used DCodes :
     D91
     D92
     D93
+*************************************************************
+
+*************************************************************
+Generating : Int1 (GND)
+      File : PCB_rockets_test_bench_acquisition.GP1
+
+    Adding Layer      : Int1 (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_rockets_test_bench_acquisition.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB_rockets_test_bench_acquisition.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_rockets_test_bench_acquisition.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_rockets_test_bench_acquisition.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D33
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D118
+    D119
+    D120
+    D121
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_rockets_test_bench_acquisition.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D14
+    D17
+    D19
 *************************************************************
 
